@@ -1,0 +1,2 @@
+# Data-Vizualization-ERAU-Retention
+This report applies data science principles and information visualization techniques to inform Embry-Riddle Aeronautical University on characteristics that may influence undergraduate student retention rates. Comparable characteristics in student retention by motivational, environmental, and financial factors may lead to an innovative solution to student retention.
